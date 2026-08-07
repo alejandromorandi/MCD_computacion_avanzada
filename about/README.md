@@ -20,15 +20,18 @@
 ## Algo que me inspira
 Los proyectos de fabricación computacional donde la forma final no se diseña aislada del material ni del proceso que la produce.
 
-Agrega una imagen local en `assets/images/` y cítala con Markdown, o agrega un link a un proyecto/referencia.
 
 
-![lampara prototipo](../assets/images/prototipo lampara.png)
+
+![prototipolampara][def]
 
 
 ## Links
 
 - [Referencia 1](https://www.instagram.com/tripleje.studio/)
-- [Referencia 2](https://example.com)
+
 
 > No es necesario publicar información personal que no quieras compartir. Este README será parte de un repositorio público durante el laboratorio.
+
+
+[def]: ../assets/images/prototipolampara.png
